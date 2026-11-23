@@ -1,0 +1,209 @@
+﻿index,split,image_stem,object_index,label_id,label_name,bbox_xyxy,review_status,correct_class,notes
+0,test,053fa059-WS_0654_jpg.rf.2f138d4c2acb3dba7f8ea7be2a8af49d,0,0,shark,"(144, 107, 271, 204)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+1,test,0bd1bc7f-WS_0420_jpg.rf.824770f3c77b74f8bb611bacede0315d,1,1,ray,"(567, 380, 639, 447)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+2,test,0bd1bc7f-WS_0420_jpg.rf.824770f3c77b74f8bb611bacede0315d,2,0,shark,"(568, 460, 629, 530)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+3,test,3d310157-WS_0062_jpg.rf.2cd669cbc407c1963aa5585ce9340fd1,1,0,shark,"(15, 162, 188, 313)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+4,test,40164c23-WS_0208_jpg.rf.15c07e789f40991264fb9a7c17b9de05,1,0,shark,"(0, 86, 135, 149)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+5,test,4c50e23f-WS_0150_jpg.rf.f93d648cf6ca995a4662e2aec44d3e2f,0,1,ray,"(280, 288, 408, 351)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+6,test,4c50e23f-WS_0150_jpg.rf.f93d648cf6ca995a4662e2aec44d3e2f,2,0,shark,"(150, 95, 246, 194)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+7,test,70e38ad3-WS_0209_jpg.rf.c418ad7e2801b449364409fac62bae38,1,0,shark,"(169, 177, 216, 207)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+8,test,IMG_0363-1-0050_jpg.rf.f0c07c5f6bb5bb342fde2c7e258ab497,0,0,shark,"(270, 247, 517, 317)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+9,test,IMG_0363-1-0050_jpg.rf.f0c07c5f6bb5bb342fde2c7e258ab497,1,0,shark,"(61, 328, 128, 355)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+10,test,IMG_0363-1-0410_jpg.rf.e19b9d3528e04b75aefe71453c0cddd7,0,0,shark,"(88, 302, 162, 332)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+11,test,IMG_0363-1-0410_jpg.rf.e19b9d3528e04b75aefe71453c0cddd7,1,1,ray,"(464, 449, 609, 472)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+12,test,IMG_0363-1-1024_jpg.rf.8d81b06981b1db750be1a5cab3481387,0,0,shark,"(354, 140, 577, 234)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+13,test,IMG_0363-1-1675_jpg.rf.bcd9f58b2b809099d7721cf18578c6e7,0,0,shark,"(150, 180, 521, 269)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+14,test,IMG_0374-1-0331_jpg.rf.8dfb3c5cd0654f6b6cd0249341db1677,1,0,shark,"(314, 0, 497, 153)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+15,train,0372005_jpg.rf.9cbbae477813e0d587e76e520768cecb,0,1,ray,"(0, 472, 176, 518)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+16,train,0372005_jpg.rf.9cbbae477813e0d587e76e520768cecb,1,0,shark,"(134, 402, 215, 424)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+17,train,0372005_jpg.rf.9cbbae477813e0d587e76e520768cecb,2,1,ray,"(418, 406, 532, 433)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+18,train,0372010_jpg.rf.77f499614ea56dd469efc38a0641bde8,0,1,ray,"(0, 468, 198, 517)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+19,train,0372010_jpg.rf.77f499614ea56dd469efc38a0641bde8,1,0,shark,"(200, 267, 306, 326)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+20,train,0372036_jpg.rf.564dc63126a1c11f03a2b31eee14c847,0,1,ray,"(118, 455, 305, 500)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+21,train,0372036_jpg.rf.564dc63126a1c11f03a2b31eee14c847,1,1,ray,"(475, 409, 589, 431)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+22,train,0372036_jpg.rf.564dc63126a1c11f03a2b31eee14c847,2,0,shark,"(225, 263, 331, 321)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+23,train,0372080_jpg.rf.e21f0c01cece58c37bcf068b063d0379,0,1,ray,"(252, 424, 427, 471)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+24,train,0372104_jpg.rf.8d8052d4f9ca9741424e108f314b28db,0,0,shark,"(199, 240, 357, 316)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+25,train,0372104_jpg.rf.8d8052d4f9ca9741424e108f314b28db,1,0,shark,"(136, 441, 190, 463)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+26,train,0372135_jpg.rf.e9973a6bc0731d709a8848e6e22b1fe3,1,1,ray,"(401, 402, 549, 447)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+27,train,0372250_jpg.rf.083f69dc51d3901999847983420d1d4d,1,1,ray,"(533, 449, 639, 485)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+28,train,0372250_jpg.rf.083f69dc51d3901999847983420d1d4d,2,1,ray,"(0, 546, 94, 569)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+29,train,0372280_jpg.rf.8618b5e17264b329e0f92c1abb7bbaef,1,1,ray,"(19, 514, 153, 541)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+30,train,03e3a268-WS_0629_jpg.rf.cbbbd890db1201779320124bbcc46ee0,1,0,shark,"(0, 79, 106, 141)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+31,train,03e3a268-WS_0629_jpg.rf.cbbbd890db1201779320124bbcc46ee0,2,0,shark,"(503, 226, 569, 270)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+32,train,050ae0d7-WS_0548_jpg.rf.66682f6b020fde5c54135d979b4a408e,1,0,shark,"(177, 540, 217, 563)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+33,train,05e6d336-WS_0339_jpg.rf.9a1e9a0a31c57e413d5597eb24b4615a,1,0,shark,"(396, 414, 502, 481)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+34,train,08ed57ce-WS_0227_jpg.rf.4ce8a2fe6dc4b6661f326a5f2e0ece62,0,0,shark,"(144, 152, 193, 198)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+35,train,108d2919-WS_0190_jpg.rf.40ea08a7b540f761c186b99ec5d191af,0,0,shark,"(93, 84, 231, 169)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+36,train,108d2919-WS_0190_jpg.rf.40ea08a7b540f761c186b99ec5d191af,1,1,ray,"(348, 266, 471, 333)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+37,train,1110b89f-WS_0004_jpg.rf.722cf277929627f9a896b688ed6d014f,1,1,ray,"(380, 285, 503, 338)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+38,train,1110b89f-WS_0004_jpg.rf.722cf277929627f9a896b688ed6d014f,2,0,shark,"(434, 340, 515, 390)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+39,train,117d6161-WS_0238_jpg.rf.9f9195142df02bee7515a083ae5fbbee,0,0,shark,"(176, 169, 220, 212)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+40,train,117d6161-WS_0238_jpg.rf.9f9195142df02bee7515a083ae5fbbee,2,0,shark,"(213, 564, 284, 595)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+41,train,146fd082-WS_0474_jpg.rf.6f41be1dda3eebcf9fbdbb3d92503251,0,1,ray,"(150, 273, 283, 324)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+42,train,146fd082-WS_0474_jpg.rf.6f41be1dda3eebcf9fbdbb3d92503251,1,0,shark,"(608, 437, 629, 459)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+43,train,146fd082-WS_0474_jpg.rf.6f41be1dda3eebcf9fbdbb3d92503251,2,0,shark,"(593, 425, 616, 447)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+44,train,146fd082-WS_0474_jpg.rf.6f41be1dda3eebcf9fbdbb3d92503251,4,0,shark,"(228, 131, 329, 173)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+45,train,176b5e64-WS_0509_jpg.rf.9b4013f9b03c70af64ccb7b163f90b5d,1,1,ray,"(239, 583, 342, 625)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+46,train,176b5e64-WS_0509_jpg.rf.9b4013f9b03c70af64ccb7b163f90b5d,2,0,shark,"(518, 367, 595, 414)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+47,train,17edb650-WS_0177_jpg.rf.aeddf0bf72134628c0a1f6285373e4a2,1,1,ray,"(529, 232, 639, 288)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+48,train,17edb650-WS_0177_jpg.rf.aeddf0bf72134628c0a1f6285373e4a2,2,0,shark,"(0, 96, 125, 137)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+49,train,17edb650-WS_0177_jpg.rf.aeddf0bf72134628c0a1f6285373e4a2,3,0,shark,"(540, 295, 588, 350)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+50,train,183ec820-WS_0322_jpg.rf.83c96b1472da6e7cc8af4030f7cfdc71,1,0,shark,"(488, 419, 593, 488)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+51,train,1c6334b6-WS_0221_jpg.rf.3fa5d8cd3e0763c83daed16f82d3a9b8,0,0,shark,"(159, 153, 202, 201)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+52,train,1d3689cb-WS_0036_jpg.rf.fddf6654959cd65bfa4563c467006283,1,1,ray,"(500, 280, 634, 313)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+53,train,1d3689cb-WS_0036_jpg.rf.fddf6654959cd65bfa4563c467006283,2,0,shark,"(0, 211, 141, 245)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+54,train,203ea8bb-WS_0023_jpg.rf.4272d4227bde74844a8e8186c0fd5352,0,0,shark,"(138, 258, 220, 279)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+55,train,2120073d-WS_0202_jpg.rf.09bf4e9c56a60e2a4df8ae977f85a81b,0,1,ray,"(400, 256, 522, 320)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+56,train,2120073d-WS_0202_jpg.rf.09bf4e9c56a60e2a4df8ae977f85a81b,1,0,shark,"(48, 99, 198, 153)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+57,train,2166aeb4-WS_0218_jpg.rf.8e5da43e4ebe29053decc9cec5327cf5,1,0,shark,"(166, 173, 215, 206)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+58,train,23afb503-WS_0069_jpg.rf.26600b3d083e4a88a84fe0a293817791,1,0,shark,"(139, 297, 206, 340)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+59,train,261036af-WS_0630_jpg.rf.77396191fce8786a4a715fd43a6333cb,1,0,shark,"(507, 202, 579, 266)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+60,train,279d8c3f-WS_0005_jpg.rf.22f343ad1fff02c0d9817be8ff6513c4,0,0,shark,"(0, 192, 106, 235)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+61,train,279d8c3f-WS_0005_jpg.rf.22f343ad1fff02c0d9817be8ff6513c4,2,1,ray,"(243, 299, 369, 334)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+62,train,294dd509-WS_0034_jpg.rf.73356b72f6aa39c5ce7bf1804e392ffe,1,0,shark,"(33, 235, 173, 268)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+63,train,29e069e1-WS_0421_jpg.rf.173975f812c5f869cb442310287605ed,1,0,shark,"(202, 234, 268, 263)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+64,train,3858f41e-WS_0195_jpg.rf.a0d9aec6360ab31d52bf19cd8a6a4a5a,1,0,shark,"(0, 77, 132, 143)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+65,train,3ae543e3-WS_0430_jpg.rf.63c86d1df97dc6f60fdd7a8c106af98e,1,1,ray,"(0, 325, 195, 420)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+66,train,3d9906e2-WS_0148_jpg.rf.98952b41ce51ee3155e356b6a2c3fe44,1,1,ray,"(289, 289, 416, 353)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+67,train,3d9906e2-WS_0148_jpg.rf.98952b41ce51ee3155e356b6a2c3fe44,2,0,shark,"(143, 106, 246, 193)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+68,train,40062c8f-WS_0229_jpg.rf.2a77bef6740070190e45799d42700ddf,0,0,shark,"(162, 159, 241, 206)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+69,train,48db8e0f-WS_0029_jpg.rf.60c4c89862e51185e7aa15cab5283063,1,0,shark,"(0, 225, 141, 262)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+70,train,4ce70d20-WS_0194_jpg.rf.0e4e2c8572298e92be645c60d428f2d8,0,1,ray,"(419, 248, 541, 329)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+71,train,4ce70d20-WS_0194_jpg.rf.0e4e2c8572298e92be645c60d428f2d8,2,0,shark,"(22, 92, 137, 142)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+72,train,512bb6d5-WS_0471_jpg.rf.287e0878f6515a799d05ba39113eb9db,1,0,shark,"(162, 585, 233, 639)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+73,train,5321e7a4-WS_0100_jpg.rf.3cb6057a8e65532400b343ae83f35d98,1,0,shark,"(140, 515, 220, 593)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+74,train,5456580b-WS_0236_jpg.rf.56f9f3916a346c5fd44ed9c2b73370f1,0,0,shark,"(93, 124, 203, 178)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+75,train,57bb6e05-WS_0438_jpg.rf.9a35f5cfdaef9e809b4c119630d9e6f8,1,1,ray,"(470, 391, 639, 489)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+76,train,5b402d21-WS_0191_jpg.rf.5a75d1ef0324be681c4d79d081d10b06,0,1,ray,"(388, 257, 513, 320)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+77,train,5b402d21-WS_0191_jpg.rf.5a75d1ef0324be681c4d79d081d10b06,2,0,shark,"(53, 89, 204, 153)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+78,train,5b8b229c-WS_0664_jpg.rf.dab7aa3afe9258e9a3ce57345b739dda,1,0,shark,"(563, 104, 639, 148)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+79,train,5b8b229c-WS_0664_jpg.rf.dab7aa3afe9258e9a3ce57345b739dda,2,0,shark,"(557, 151, 639, 195)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+80,train,638e3b9f-WS_0140_jpg.rf.a3ee8315c4f5cc42b8633da8664b6b3d,0,1,ray,"(238, 287, 365, 361)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+81,train,638e3b9f-WS_0140_jpg.rf.a3ee8315c4f5cc42b8633da8664b6b3d,1,0,shark,"(184, 118, 256, 207)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+82,train,7723a977-WS_0198_jpg.rf.354fb28e2c86771440093582f410522b,1,0,shark,"(0, 71, 128, 138)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+83,train,7723a977-WS_0198_jpg.rf.354fb28e2c86771440093582f410522b,2,1,ray,"(571, 231, 639, 284)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+84,train,IMG_0363-1-0038_jpg.rf.1381d2ef5eb994a380a417c024a15f3d,0,0,shark,"(346, 253, 615, 324)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+85,train,IMG_0363-1-0038_jpg.rf.1381d2ef5eb994a380a417c024a15f3d,1,0,shark,"(140, 336, 221, 361)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+86,train,IMG_0363-1-0105_jpg.rf.3dd513c1f75fb4840ca4c16bceceb403,0,0,shark,"(4, 234, 260, 310)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+87,train,IMG_0363-1-0105_jpg.rf.3dd513c1f75fb4840ca4c16bceceb403,1,0,shark,"(331, 359, 421, 388)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+88,train,IMG_0363-1-0105_jpg.rf.3dd513c1f75fb4840ca4c16bceceb403,2,0,shark,"(513, 365, 586, 378)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+89,train,IMG_0363-1-0128_jpg.rf.3547a829375338c8ea6d67f2857655e4,0,0,shark,"(0, 225, 193, 312)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+90,train,IMG_0363-1-0128_jpg.rf.3547a829375338c8ea6d67f2857655e4,1,0,shark,"(240, 351, 334, 385)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+91,train,IMG_0363-1-0160_jpg.rf.5796dba97793111050cb1d32724d6b2d,0,0,shark,"(0, 265, 105, 314)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+92,train,IMG_0363-1-0160_jpg.rf.5796dba97793111050cb1d32724d6b2d,1,0,shark,"(163, 340, 248, 381)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+93,train,IMG_0363-1-0211_jpg.rf.7837b1d0ab1b5500aba0fc451d118859,0,0,shark,"(109, 340, 207, 374)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+94,train,IMG_0363-1-0211_jpg.rf.7837b1d0ab1b5500aba0fc451d118859,1,0,shark,"(0, 266, 82, 302)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+95,train,IMG_0363-1-0273_jpg.rf.4d10de9c14e1626481c2754f48f806a1,0,0,shark,"(0, 262, 232, 325)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+96,train,IMG_0363-1-0300_jpg.rf.f9e2c44694d2be223f8c25170240398f,0,0,shark,"(34, 253, 272, 316)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+97,train,IMG_0363-1-0300_jpg.rf.f9e2c44694d2be223f8c25170240398f,1,0,shark,"(247, 303, 340, 353)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+98,train,IMG_0363-1-0300_jpg.rf.f9e2c44694d2be223f8c25170240398f,2,0,shark,"(555, 302, 606, 320)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+99,train,IMG_0363-1-0300_jpg.rf.f9e2c44694d2be223f8c25170240398f,3,0,shark,"(494, 362, 552, 374)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+100,train,IMG_0363-1-0333_jpg.rf.31b8d014c979554eae98444fae5e0dc3,0,0,shark,"(3, 220, 325, 296)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+101,train,IMG_0363-1-0347_jpg.rf.50f7cd21f1646ea8c6d18357afb4673d,0,0,shark,"(299, 329, 381, 356)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+102,train,IMG_0363-1-0347_jpg.rf.50f7cd21f1646ea8c6d18357afb4673d,1,1,ray,"(278, 423, 386, 451)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+103,train,IMG_0363-1-0407_jpg.rf.7c9e7122babba0c782efaac22d6d36f3,0,0,shark,"(283, 266, 602, 329)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+104,train,IMG_0363-1-0424_jpg.rf.5efe185900997d1e059c57fd40451136,0,0,shark,"(370, 255, 639, 328)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+105,train,IMG_0363-1-0430_jpg.rf.5c2a4e6d506253fedc660712da8411a6,0,0,shark,"(229, 299, 318, 338)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+106,train,IMG_0363-1-0437_jpg.rf.5ed30943c68faf3cdd0b5bc35e40f489,0,0,shark,"(410, 260, 639, 324)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+107,train,IMG_0363-1-0450_jpg.rf.6a50bc28d395feb940a34bc9c839ca17,0,0,shark,"(310, 281, 391, 330)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+108,train,IMG_0363-1-0515_jpg.rf.412709e248aa7fbf4c132e3b0c42f6c9,0,0,shark,"(413, 358, 522, 376)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+109,train,IMG_0363-1-0515_jpg.rf.412709e248aa7fbf4c132e3b0c42f6c9,1,0,shark,"(462, 256, 558, 303)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+110,train,IMG_0363-1-0515_jpg.rf.412709e248aa7fbf4c132e3b0c42f6c9,2,1,ray,"(562, 446, 639, 469)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+111,train,IMG_0363-1-0553_jpg.rf.10c7084ecbdfb103594229e07d735121,0,0,shark,"(474, 263, 591, 311)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+112,train,IMG_0363-1-0578_jpg.rf.e30369dc1c60788de2d1174374ad07db,0,0,shark,"(398, 290, 482, 340)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+113,train,IMG_0363-1-0660_jpg.rf.00da7c19f55696948868cab3ead84cfa,0,0,shark,"(491, 363, 604, 387)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+114,train,IMG_0363-1-0660_jpg.rf.00da7c19f55696948868cab3ead84cfa,1,0,shark,"(113, 321, 190, 358)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+115,train,IMG_0363-1-0660_jpg.rf.00da7c19f55696948868cab3ead84cfa,2,1,ray,"(497, 455, 622, 482)",verified_unchanged,1,Visual inspection of contact sheets; verify on full-resolution image before training
+116,train,IMG_0363-1-0673_jpg.rf.40523f438e39f20cb6038ef3341dbb2a,0,1,ray,"(440, 447, 546, 484)",verified_unchanged,1,Visual inspection of contact sheets; verify on full-resolution image before training
+117,train,IMG_0363-1-0673_jpg.rf.40523f438e39f20cb6038ef3341dbb2a,1,0,shark,"(469, 361, 587, 392)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+118,train,IMG_0363-1-0673_jpg.rf.40523f438e39f20cb6038ef3341dbb2a,2,0,shark,"(75, 336, 158, 366)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+119,train,IMG_0363-1-0685_jpg.rf.e37645f57ea4e92040c7263c319c779b,0,0,shark,"(37, 345, 128, 373)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+120,train,IMG_0363-1-0685_jpg.rf.e37645f57ea4e92040c7263c319c779b,1,0,shark,"(452, 361, 571, 389)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+121,train,IMG_0363-1-0695_jpg.rf.7ee2ef7d5a5ec0c0b7ce097c4aade28f,0,0,shark,"(429, 360, 551, 381)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+122,train,IMG_0363-1-0695_jpg.rf.7ee2ef7d5a5ec0c0b7ce097c4aade28f,1,0,shark,"(11, 352, 95, 379)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+123,train,IMG_0363-1-0695_jpg.rf.7ee2ef7d5a5ec0c0b7ce097c4aade28f,2,1,ray,"(391, 453, 444, 485)",verified_unchanged,1,Visual inspection of contact sheets; verify on full-resolution image before training
+124,train,IMG_0363-1-0695_jpg.rf.7ee2ef7d5a5ec0c0b7ce097c4aade28f,3,1,ray,"(165, 458, 245, 474)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+125,train,IMG_0363-1-069_jpg.rf.8a40727d959f0bd2bb0da0033db3f2ee,0,1,ray,"(196, 191, 344, 216)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+126,train,IMG_0363-1-069_jpg.rf.8a40727d959f0bd2bb0da0033db3f2ee,1,0,shark,"(286, 273, 420, 314)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+127,train,IMG_0363-1-0750_jpg.rf.8f706ca87924d1a0cbb5933d96ea89f9,0,0,shark,"(274, 342, 392, 359)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+128,train,IMG_0363-1-0750_jpg.rf.8f706ca87924d1a0cbb5933d96ea89f9,1,1,ray,"(66, 449, 147, 488)",verified_unchanged,1,Visual inspection of contact sheets; verify on full-resolution image before training
+129,train,IMG_0363-1-081_jpg.rf.c25d70a6a7a4508299fe71eccaa08a7a,0,1,ray,"(268, 211, 402, 244)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+130,train,IMG_0363-1-081_jpg.rf.c25d70a6a7a4508299fe71eccaa08a7a,1,0,shark,"(279, 298, 413, 341)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+131,train,IMG_0363-1-0858_jpg.rf.31a14ed70fd3341a48b73b808327d36a,0,0,shark,"(216, 223, 358, 262)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+132,train,IMG_0363-1-0858_jpg.rf.31a14ed70fd3341a48b73b808327d36a,1,0,shark,"(155, 290, 366, 326)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+133,train,IMG_0363-1-0858_jpg.rf.31a14ed70fd3341a48b73b808327d36a,2,0,shark,"(233, 370, 300, 396)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+134,train,IMG_0363-1-0874_jpg.rf.0b3aa9bbcf2d584b71c74da63d4b891f,0,0,shark,"(225, 226, 362, 269)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+135,train,IMG_0363-1-0874_jpg.rf.0b3aa9bbcf2d584b71c74da63d4b891f,1,0,shark,"(130, 310, 333, 332)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+136,train,IMG_0363-1-0900_jpg.rf.d03c59b35e3a57db4e4378e0079f7839,0,0,shark,"(301, 223, 404, 282)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+137,train,IMG_0363-1-0900_jpg.rf.d03c59b35e3a57db4e4378e0079f7839,1,0,shark,"(187, 307, 356, 344)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+138,train,IMG_0363-1-0957_jpg.rf.7977f3c9ad4ee3b2e2b0d1f5d7fe3fa8,0,0,shark,"(446, 175, 601, 278)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+139,train,IMG_0363-1-0957_jpg.rf.7977f3c9ad4ee3b2e2b0d1f5d7fe3fa8,1,0,shark,"(376, 310, 473, 351)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+140,train,IMG_0363-1-100_jpg.rf.d252cc26ed2dc0a57c45b8ad90faa096,0,1,ray,"(429, 257, 434, 261)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+141,train,IMG_0363-1-100_jpg.rf.d252cc26ed2dc0a57c45b8ad90faa096,1,1,ray,"(352, 244, 481, 271)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+142,train,IMG_0363-1-100_jpg.rf.d252cc26ed2dc0a57c45b8ad90faa096,2,0,shark,"(248, 333, 411, 366)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+143,train,IMG_0363-1-1034_jpg.rf.0bb1adac3cce6fa6db5f0c822ff970f3,0,0,shark,"(340, 140, 587, 228)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+144,train,IMG_0363-1-1100_jpg.rf.6ec7d70ea34bb5448f1c15a0c5c0f818,0,0,shark,"(330, 140, 639, 215)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+145,train,IMG_0363-1-1160_jpg.rf.0ffd6b46fe421d28a4bcd52b97008dc4,0,0,shark,"(305, 278, 639, 317)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+146,train,IMG_0363-1-1179_jpg.rf.708b2f40c1420654118a7b3e2c82e9dc,0,0,shark,"(268, 317, 559, 353)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+147,train,IMG_0363-1-1200_jpg.rf.ec2c0eb9074f71884cfb25636278da53,0,0,shark,"(235, 338, 548, 385)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+148,train,IMG_0363-1-1212_jpg.rf.62dde2bceadecef6fcc0e8ade1f8699e,0,0,shark,"(228, 346, 537, 399)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+149,train,IMG_0363-1-1212_jpg.rf.62dde2bceadecef6fcc0e8ade1f8699e,1,0,shark,"(6, 446, 81, 473)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+150,train,IMG_0363-1-122_jpg.rf.4ea3f80440366d50341d46cbbd294082,0,1,ray,"(426, 267, 544, 297)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+151,train,IMG_0363-1-122_jpg.rf.4ea3f80440366d50341d46cbbd294082,1,0,shark,"(187, 353, 363, 384)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+152,train,IMG_0363-1-152_jpg.rf.baeab368ebf0e4e0da0a91774ea946fc,0,0,shark,"(100, 348, 289, 372)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+153,train,IMG_0363-1-152_jpg.rf.baeab368ebf0e4e0da0a91774ea946fc,1,1,ray,"(504, 272, 611, 303)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+154,train,IMG_0363-1-1665_jpg.rf.199adb702bc18454adc1b6675255b785,0,0,shark,"(177, 185, 519, 275)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+155,train,IMG_0363-1-1665_jpg.rf.199adb702bc18454adc1b6675255b785,1,0,shark,"(299, 285, 377, 313)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+156,train,IMG_0374-1-0255_jpg.rf.129a1ff94f309ae1da63e33a97fe9c16,0,0,shark,"(65, 0, 272, 104)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+157,train,IMG_0374-1-0255_jpg.rf.129a1ff94f309ae1da63e33a97fe9c16,1,1,ray,"(233, 222, 303, 267)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+158,train,IMG_0374-1-0297_jpg.rf.2801c11d72d50ac057a02809215113f3,0,0,shark,"(159, 0, 352, 184)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+159,train,IMG_0374-1-0297_jpg.rf.2801c11d72d50ac057a02809215113f3,1,1,ray,"(13, 363, 108, 420)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+160,train,IMG_0374-1-0308_jpg.rf.c2f34e5d7b7bda073fa909ce666bd6f3,0,1,ray,"(62, 365, 158, 420)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+161,train,IMG_0374-1-0308_jpg.rf.c2f34e5d7b7bda073fa909ce666bd6f3,1,0,shark,"(207, 0, 403, 186)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+162,train,IMG_0374-1-0323_jpg.rf.a6fb31ac4790e105ccd5af19d7fb90c9,2,0,shark,"(310, 0, 472, 163)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+163,train,IMG_0374-1-0323_jpg.rf.a6fb31ac4790e105ccd5af19d7fb90c9,3,1,ray,"(132, 368, 221, 420)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+164,train,IMG_0374-1-0371_jpg.rf.72c69750f8a19aa4ae9c17f01440aed1,1,0,shark,"(358, 0, 496, 135)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+165,train,IMG_0374-1-0372_jpg.rf.bc8fcdecb334cb7b8b2268cbbf0c3c92,0,0,shark,"(344, 0, 495, 136)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+166,train,IMG_0374-1-0372_jpg.rf.bc8fcdecb334cb7b8b2268cbbf0c3c92,1,1,ray,"(414, 258, 465, 295)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+167,train,IMG_0374-1-0500_jpg.rf.f9c9ba8c7c6df1e66bd7597497f75f7e,1,1,ray,"(117, 402, 211, 460)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+168,train,IMG_0374-1-0508_jpg.rf.6dd01fde39a20ac5b84bc83f818a93c4,1,1,ray,"(135, 408, 235, 474)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+169,train,IMG_0374-1-0508_jpg.rf.6dd01fde39a20ac5b84bc83f818a93c4,2,1,ray,"(277, 359, 342, 401)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+170,train,IMG_0374-1-0524_jpg.rf.dd3b580c2bcc5b9a3d87cc61a881a0e2,1,0,shark,"(453, 0, 546, 94)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+171,train,IMG_0374-1-0524_jpg.rf.dd3b580c2bcc5b9a3d87cc61a881a0e2,2,1,ray,"(310, 376, 375, 429)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+172,train,IMG_0374-1-0598_jpg.rf.8acea362c508d151e3c5cb9e16636d24,1,1,ray,"(413, 368, 479, 418)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+173,train,IMG_0374-1-0669_jpg.rf.616bd7cf9683e09d71488d6a822e5295,1,0,shark,"(266, 87, 303, 164)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+174,train,IMG_0374-1-0669_jpg.rf.616bd7cf9683e09d71488d6a822e5295,2,1,ray,"(449, 335, 511, 384)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+175,train,IMG_0374-1-0681_jpg.rf.bdfaae33dd754f69e5c211a39eff2259,1,1,ray,"(458, 328, 517, 374)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+176,train,IMG_0374-1-0681_jpg.rf.bdfaae33dd754f69e5c211a39eff2259,2,0,shark,"(278, 78, 315, 155)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+177,train,IMG_0374-1-0681_jpg.rf.bdfaae33dd754f69e5c211a39eff2259,3,0,shark,"(18, 365, 105, 392)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+178,val,0150098e-WS_0483_jpg.rf.f6c708c66806ac9609d1d732cb6d97a9,1,0,shark,"(169, 94, 297, 162)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+179,val,0372015_jpg.rf.e00f9864f79fbd6aaa8ee34cbde09c56,0,1,ray,"(18, 465, 218, 516)",verified_unchanged,1,Visual inspection of contact sheets; verify on full-resolution image before training
+180,val,0372015_jpg.rf.e00f9864f79fbd6aaa8ee34cbde09c56,1,0,shark,"(120, 402, 210, 417)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+181,val,08041ebf-WS_0455_jpg.rf.0a6c5a3e47f5d854728c29d127f2e2d3,1,1,ray,"(355, 373, 570, 512)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+182,val,08041ebf-WS_0455_jpg.rf.0a6c5a3e47f5d854728c29d127f2e2d3,2,0,shark,"(390, 520, 528, 639)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+183,val,09c380a7-WS_0171_jpg.rf.3ffd7e5cccac4360842b8c9046055492,1,0,shark,"(0, 98, 130, 148)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+184,val,09c380a7-WS_0171_jpg.rf.3ffd7e5cccac4360842b8c9046055492,2,1,ray,"(498, 236, 630, 294)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+185,val,18969aea-WS_0636_jpg.rf.224c52cfb45a72aa3ba7b1a7aea74778,1,0,shark,"(98, 140, 163, 166)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+186,val,18b5767f-WS_0207_jpg.rf.748ed9d7188c82056d5379a7325de54a,1,0,shark,"(0, 83, 144, 149)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+187,val,22c1086f-WS_0660_jpg.rf.e6d756d5a25d17ec219bd46ea15345d8,1,0,shark,"(339, 137, 427, 177)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+188,val,5409a5b1-WS_0426_jpg.rf.2df7ce24e949376d82bdceba362fe073,1,0,shark,"(0, 237, 158, 295)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+189,val,5409a5b1-WS_0426_jpg.rf.2df7ce24e949376d82bdceba362fe073,2,0,shark,"(177, 520, 220, 579)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+190,val,5409a5b1-WS_0426_jpg.rf.2df7ce24e949376d82bdceba362fe073,3,0,shark,"(132, 606, 221, 639)",manual_review_required,,"Small, partial, distant, or visually ambiguous; not auto-modified"
+191,val,696068b9-WS_0203_jpg.rf.c5a1eb6f65d5df4c907d29b39333ca7c,1,0,shark,"(0, 98, 126, 146)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+192,val,696068b9-WS_0203_jpg.rf.c5a1eb6f65d5df4c907d29b39333ca7c,2,1,ray,"(513, 233, 639, 289)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+193,val,IMG_0363-1-0140_jpg.rf.4ed012ab22fb356036f898c539c035e7,0,0,shark,"(0, 233, 153, 312)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+194,val,IMG_0363-1-0140_jpg.rf.4ed012ab22fb356036f898c539c035e7,1,0,shark,"(200, 341, 294, 382)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+195,val,IMG_0363-1-0140_jpg.rf.4ed012ab22fb356036f898c539c035e7,2,0,shark,"(506, 338, 562, 357)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+196,val,IMG_0363-1-0140_jpg.rf.4ed012ab22fb356036f898c539c035e7,3,0,shark,"(385, 371, 450, 385)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+197,val,IMG_0363-1-0359_jpg.rf.712ca5194aced207661e1f5f8ff8fccb,0,0,shark,"(72, 220, 415, 298)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+198,val,IMG_0363-1-0504_jpg.rf.c7cd50f57644f80570fbc96867290df1,0,0,shark,"(434, 260, 511, 324)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+199,val,IMG_0363-1-0504_jpg.rf.c7cd50f57644f80570fbc96867290df1,1,0,shark,"(358, 349, 455, 379)",verified_unchanged,0,Visual inspection of contact sheets; verify on full-resolution image before training
+200,val,IMG_0363-1-0971_jpg.rf.6ff1d14931233fa97fc0f6b56c42b597,0,0,shark,"(449, 157, 596, 265)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+201,val,IMG_0363-1-0971_jpg.rf.6ff1d14931233fa97fc0f6b56c42b597,1,0,shark,"(382, 312, 463, 347)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+202,val,IMG_0363-1-1335_jpg.rf.4761a138a72965bf829ab0c26421d7cd,0,0,shark,"(198, 477, 281, 499)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+203,val,IMG_0363-1-180_jpg.rf.8ff266198244db92ce7ddee41c49ff96,0,0,shark,"(20, 336, 212, 367)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
+204,val,IMG_0363-1-180_jpg.rf.8ff266198244db92ce7ddee41c49ff96,1,1,ray,"(560, 281, 639, 307)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+205,val,IMG_0374-1-0564_jpg.rf.01033a48527a4e66dc7faa4f627c799d,1,1,ray,"(366, 397, 431, 448)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+206,val,IMG_0374-1-0694_jpg.rf.1ced44bcd3b9ab34be597e16d2f2a589,1,1,ray,"(469, 321, 523, 364)",corrected,0,Visual inspection of contact sheets; verify on full-resolution image before training
+207,val,IMG_0374-1-0694_jpg.rf.1ced44bcd3b9ab34be597e16d2f2a589,2,0,shark,"(403, 238, 447, 281)",corrected,1,Visual inspection of contact sheets; verify on full-resolution image before training
