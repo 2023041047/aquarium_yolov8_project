@@ -1,0 +1,25 @@
+{
+  "model": "runs/aquarium_50epochs/weights/best.pt",
+  "video": "videos/aquarium_test5.mp4",
+  "processed_frames": 10267,
+  "seconds": 434.292,
+  "line_y_fraction": 0.55,
+  "counts": {
+    "shark": {
+      "up": 10,
+      "down": 16,
+      "total": 26
+    },
+    "ray": {
+      "up": 4,
+      "down": 14,
+      "total": 18
+    },
+    "whale_shark": {
+      "up": 5,
+      "down": 12,
+      "total": 17
+    }
+  },
+  "note": "Counts are unique track IDs crossing a horizontal line once, not distinct animals in the aquarium."
+}
