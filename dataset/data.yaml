@@ -1,0 +1,9 @@
+path: D:/aquarium_yolov8_project/dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names:
+  0: shark
+  1: ray
+  2: whale_shark

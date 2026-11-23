@@ -1,0 +1,50 @@
+{
+  "classes": [
+    "shark",
+    "ray",
+    "whale_shark"
+  ],
+  "splits": {
+    "train": {
+      "images": 169,
+      "images_by_class": {
+        "whale_shark": 108,
+        "shark": 58,
+        "ray": 70
+      },
+      "boxes_by_class": {
+        "whale_shark": 113,
+        "shark": 79,
+        "ray": 84
+      }
+    },
+    "val": {
+      "images": 21,
+      "images_by_class": {
+        "ray": 13,
+        "whale_shark": 15,
+        "shark": 12
+      },
+      "boxes_by_class": {
+        "whale_shark": 15,
+        "ray": 16,
+        "shark": 14
+      }
+    },
+    "test": {
+      "images": 21,
+      "images_by_class": {
+        "ray": 8,
+        "whale_shark": 14,
+        "shark": 5
+      },
+      "boxes_by_class": {
+        "ray": 9,
+        "whale_shark": 15,
+        "shark": 6
+      }
+    }
+  },
+  "errors": [],
+  "error_count": 0
+}
