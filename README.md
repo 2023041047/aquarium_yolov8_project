@@ -16,6 +16,9 @@ python aquarium.py track --source videos/aquarium_test5.mp4 --seconds 5 --device
 
 Outputs: `runs/aquarium_5epochs/weights/best.pt`, `outputs/evaluation.json`, `outputs/aquarium_tracking_5sec.mp4`, `.csv` crossing events, `.json` counts.
 
+### Video file upload notice
+The original `aquarium_test5.mp4` video used for the final analysis is approximately **270 MB**. Because this exceeds GitHub's **25 MB browser-upload limit**, only an excerpt of the original video was uploaded to the repository. The uploaded clip is **not the full source video**; the final analysis was performed using the original video.
+
 ### Counting definition
 A track counts only once when its bounding-box bottom-center crosses the horizontal line. `--line 0.55` positions it at 55% of frame height. This is a *line crossing count*, not the true number of distinct animals. A change in tracker ID or occlusion may affect counts. The first observed position alone does not count as crossing. Inspect the annotated video and compare with manual counts.
 
